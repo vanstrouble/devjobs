@@ -15,4 +15,4 @@ Website that simulates applying for web developer job openings built in Laravel/
 - Apply for available vacancies.
 
 Final project for LSIA Web Programming by **Pedro Antonio Vázquez González**
-# devjobs-web-lsia
+
