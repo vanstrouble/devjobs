@@ -7,7 +7,7 @@ DevJobs is a web application built in Laravel/PHP that simulates the process of 
 - Edit or delete your own vacancies.
 - View and manage applications received from developers.
 
-## Developer Role:
+### Developer Role:
 - Browse and view available job vacancies.
 - Apply for job vacancies that match your skills and interests.
 
@@ -15,3 +15,6 @@ DevJobs is a web application built in Laravel/PHP that simulates the process of 
 This project was developed as the final project for the LSIA Web Programming course by **Pedro Antonio Vázquez González.**
 
 Feel free to explore the project and experience the process of applying for web developer job openings in a simulated environment.
+
+## DevJobs Website Screenshot
+![Recruiter and Developer inside DevJobs website]("img/devjobs_sc.jpg")
