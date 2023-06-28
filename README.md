@@ -17,4 +17,4 @@ This project was developed as the final project for the LSIA Web Programming cou
 Feel free to explore the project and experience the process of applying for web developer job openings in a simulated environment.
 
 ## DevJobs Website Screenshot
-![Recruiter and Developer inside DevJobs website]("img/devjobs_sc.JPG")
+![Recruiter and Developer inside DevJobs website](img/devjobs_sc.JPG)
