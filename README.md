@@ -1,18 +1,17 @@
 # DevJobs
-Website that simulates applying for web developer job openings built in Laravel/PHP using Breeze for login management and Livewire.
+DevJobs is a web application built in Laravel/PHP that simulates the process of applying for web developer job openings. It utilizes the Breeze package for login management and Livewire for interactive components.
 
-**There are two roles:**
-- Recruiter
-- Developer
+## Key Features
+### Recruiter Role:
+- Create job vacancies and post them on the platform.
+- Edit or delete your own vacancies.
+- View and manage applications received from developers.
 
-**Recruiter Features:**
-- Create vacancies and post them.
-- Edit, delete your vacancies.
-- View vacancies received from developers.
+## Developer Role:
+- Browse and view available job vacancies.
+- Apply for job vacancies that match your skills and interests.
 
-**Developer Features:**
-- View available vacancies.
-- Apply for available vacancies.
+## About the Project
+This project was developed as the final project for the LSIA Web Programming course by **Pedro Antonio Vázquez González.**
 
-Final project for LSIA Web Programming by **Pedro Antonio Vázquez González**
-
+Feel free to explore the project and experience the process of applying for web developer job openings in a simulated environment.
